@@ -1,4 +1,4 @@
-## Hi there 👋
+## Ola! Me chamo Alexandre 👋
 
 - 🔭 Estudando Desenvolvimento Web Full Stack
 - 🌱 Aprendendo HTML5 e CSS3
