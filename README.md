@@ -1,7 +1,7 @@
 ## Ola! Me chamo Alexandre 👋
 
 - 🔭 Estudando Desenvolvimento Web Full Stack
-- 🌱 Aprendendo HTML5 e CSS3
+- 🌱 Aprendendo HTML5, CSS3 e JAVASCRIPT
 
 <div align="center">
   <a href="https://github.com/alexandrearaujoo">
