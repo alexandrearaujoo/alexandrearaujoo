@@ -1,7 +1,7 @@
 ## Ola! Me chamo Alexandre 👋
 
 - 🔭 Estudando Desenvolvimento Web Full Stack
-- 🌱 Aprendendo HTML5, CSS3 e JAVASCRIPT
+- 🌱 Aprendendo Typescript, PostgreSQL e Nodejs
 
 <div align="center">
   <a href="https://github.com/alexandrearaujoo">
@@ -22,6 +22,5 @@
 
   <a href="https://www.linkedin.com/in/alexandrearaujoo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- ![Snake animation](https://github.com/alexandrearaujoo/alexandrearaujoo/blob/output/github-contribution-grid-snake.svg)
    
 </div>
