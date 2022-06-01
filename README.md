@@ -1,7 +1,7 @@
 ## Ola! Me chamo Alexandre 👋
 
 - 🔭 Estudando Desenvolvimento Web Full Stack
-- 🌱 Aprendendo Typescript, PostgreSQL e Nodejs
+- 🌱 Aprendendo Python e Django
 
 <div align="center">
   <a href="https://github.com/alexandrearaujoo">
