@@ -1,7 +1,6 @@
-## Ola! Me chamo Alexandre 👋
-
-- 🔭 Estudando Desenvolvimento Web Full Stack
-- 🌱 Aprendendo Python e Django
+<div>
+  <img src="https://i.postimg.cc/ZnM87GpJ/Grava-o-de-tela-de-08-06-2022-18-49-4.gif"/>
+</div>
 
 <div align="center">
   <a href="https://github.com/alexandrearaujoo">
