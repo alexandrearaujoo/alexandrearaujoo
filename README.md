@@ -1,5 +1,5 @@
-<div>
-  <img src="https://i.postimg.cc/ZnM87GpJ/Grava-o-de-tela-de-08-06-2022-18-49-4.gif"/>
+<div align="center">
+  <img src="https://i.postimg.cc/K8RcBRZK/gif-name.gif"/>
 </div>
 
 <div align="center">
