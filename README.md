@@ -2,10 +2,16 @@
   <img src="https://i.postimg.cc/K8RcBRZK/gif-name.gif" width="50%"/>
 </div>
 
-<div align="center">
-  <a href="https://github.com/alexandrearaujoo">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alexandrearaujoo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrearaujoo&layout=compact&langs_count=7&theme=midnight-purple"/>
+- 🌎  My name is Alexandre and i'm **FullStack Developer.**
+
+  - 🧬 Soft Skills: **I am self-taught, proactive, communicative and curious.**
+
+  - 🖥️  Tools:  **Git, GitHub, Notion, VSCode.**
+ 
+  - 📧  **You can find me here:**  ⤵️
+
+  <div> 
+  <a href="https://www.linkedin.com/in/alexandrearaujoo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-	badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
   <div align="center">
@@ -43,10 +49,13 @@
 </div>
     
   ##
-  
-  <div> 
+	
+<div align="center">
+  <h2> ⚙️Analytics </h2>
 
-  <a href="https://www.linkedin.com/in/alexandrearaujoo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-   
+  <a href="https://github.com/alexandrearaujoo">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alexandrearaujoo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrearaujoo&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
+  
+
