@@ -4,7 +4,7 @@
 
 - 🌎  My name is Alexandre and i'm **FullStack Developer.**
 
-  - 🧬 Soft Skills: **I am self-taught, proactive, communicative and curious.**
+  - 🧬 Soft Skills: **Communication, proactive, observer, fast learner.**
 
   - 🖥️  Tools:  **Git, GitHub, Notion, VSCode.**
  
@@ -37,7 +37,6 @@
   <img src="https://img.shields.io/badge/-trello-0052CC?logo=trello&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-yarn-2C8EBB?logo=yarn&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-jwt-000000?logo=JSON Web Tokens&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-vscode-007ACC?logo=Visual Studio Code&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-notion-000000?logo=notion&logoColor=white&style=for-the-badge" />
