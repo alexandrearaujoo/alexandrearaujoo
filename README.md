@@ -2,6 +2,11 @@
   <img src="https://i.postimg.cc/K8RcBRZK/gif-name.gif" width="50%"/>
 </div>
 
+#  Hello, world! 🤟
+  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat&logo=github)](https://github.com/alexandrearaujoo)
+  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/alexandrearaujoo/alexandrearaujoo?logo=markdown&label=LAST+UPDATE&color=blue&style=flat" />
+
+
 - 🌎  My name is Alexandre and i'm **FullStack Developer.**
 
   - 🧬 Soft Skills: **Communication, proactive, observer, fast learner.**
