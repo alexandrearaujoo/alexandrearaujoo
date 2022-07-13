@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://i.postimg.cc/K8RcBRZK/gif-name.gif" width="50%"/>
-</div>
+
 
 #  Hello, world! 🤙
   [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-purple.svg?style=flat&logo=github)](https://github.com/alexandrearaujoo)
