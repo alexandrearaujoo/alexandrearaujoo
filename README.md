@@ -49,7 +49,7 @@
 
 <div align="center">
   <h2> 📚 Studying </h2>
-	
+	<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
 
 </div>
     
