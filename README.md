@@ -14,14 +14,11 @@
   - 📧  **You can find me here:**  ⤵️
 
   <div> 
-   <a href="https://www.linkedin.com/in/alexandrearaujoo/" target="blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank">
+   <a href="https://www.linkedin.com/in/alexandrearaujoo/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
    </a> 
-   <a href="https://alexandre-araujo.vercel.app/" target="blank">
-     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139 target="blank"/>
-   </a>
-   <a href="alexandre01393@gmail.com">
-     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+   <a href="https://alexandre-araujo.vercel.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139 target="_blank"/>
    </a>
  </div>
   
