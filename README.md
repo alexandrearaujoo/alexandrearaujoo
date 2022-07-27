@@ -20,6 +20,9 @@
    <a href="https://alexandre-araujo.vercel.app/" target="blank">
      <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139 target="blank"/>
    </a>
+   <a href="alexandre01393@gmail.com">
+     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+   </a>
  </div>
   
   <div align="center">
