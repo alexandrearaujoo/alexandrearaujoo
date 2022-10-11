@@ -1,11 +1,6 @@
 
 
-#  Hello, world! 🤙
-  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-purple.svg?style=flat&logo=github)](https://github.com/alexandrearaujoo)
-  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/alexandrearaujoo/alexandrearaujoo?logo=markdown&label=LAST+UPDATE&color=purple&style=flat" />
-
-
-- 🌎  My name is Alexandre and i'm **FullStack Developer.**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7F3ACE&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Alexandre+Araujo;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
   - 🧬 Soft Skills: **Communication, proactive, observer, fast learner.**
 
