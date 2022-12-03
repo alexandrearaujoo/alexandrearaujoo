@@ -44,13 +44,6 @@
   <img src="https://img.shields.io/badge/-vscode-007ACC?logo=Visual Studio Code&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-notion-000000?logo=notion&logoColor=white&style=for-the-badge" />
 </div>
-
-<div align="center">
-  <h2> 📚 Studying </h2>
-	<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
-
-</div>
-    
   ##
 	
 <div align="center">
