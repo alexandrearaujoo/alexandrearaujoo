@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-typescrypt-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-styled components-DB7093?logo=styled-components&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/-nodejs-339933?logo=node.js&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-express-000000?logo=express&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-typeorm-FE0902?logo=typescript&logoColor=white&style=for-the-badge" />
