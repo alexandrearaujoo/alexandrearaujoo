@@ -4,7 +4,7 @@
 
   - 🧬 Soft Skills: **Communication, proactive, observer, fast learner.**
 
-  - 🖥️  Tools:  **Git, GitHub, Notion, VSCode.**
+  - 🖥️  Tools:  **Git, GitHub, VSCode.**
  
   - 📧  **You can find me here:**  ⤵️
 
