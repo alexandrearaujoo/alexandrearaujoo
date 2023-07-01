@@ -52,6 +52,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrearaujoo&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alexandrearaujoo)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alexandrearaujoo&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 
